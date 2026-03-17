@@ -1,6 +1,6 @@
 # Grupo 1 - Optimización 🚀
 
-Este repositorio contiene el código fuente en LaTeX y los recursos gráficos para la asignatura de **Optimización** (Semestre 2026-1).
+Este repositorio contiene soluciones a tareas, proyectos, talleres y otros recursos para la asignatura de **Optimización** (Semestre 2026-1).
 
 **Universidad Nacional de Colombia - Sede Bogotá** 
 *Ingeniería de Sistemas e Ingeniería Industrial*
