@@ -2,7 +2,8 @@
 
 Este repositorio contiene el código fuente en LaTeX y los recursos gráficos para la asignatura de **Optimización** (Semestre 2026-1).
 
-**Universidad Nacional de Colombia - Sede Bogotá** *Ingeniería de Sistemas e Ingeniería Industrial*
+**Universidad Nacional de Colombia - Sede Bogotá** 
+*Ingeniería de Sistemas e Ingeniería Industrial*
 
 ---
 
