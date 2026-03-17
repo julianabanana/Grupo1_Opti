@@ -1,6 +1,6 @@
 # Grupo 1 - Optimización 🚀
 
-Este repositorio contiene talleres, tareas y los recursos gráficos para la asignatura de **Optimización** (Semestre 2026-1).
+Este repositorio contiene la solución del taller 1 para la asignatura de **Optimización** (Semestre 2026-1).
 
 **Universidad Nacional de Colombia - Sede Bogotá** 
 *Ingeniería de Sistemas e Ingeniería Industrial*
